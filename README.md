@@ -27,4 +27,5 @@ The dataset contains daily trending YouTube video statistics across multiple reg
 [YouTube Trending Videos Dataset - Kaggle](https://www.kaggle.com/datasets/datasnaek/youtube-new)
 
 **Architecture**
+
 ![youtube_analytics drawio](https://github.com/user-attachments/assets/dae0dcd3-6dd2-4a4b-b2e3-68fdadf04079)
